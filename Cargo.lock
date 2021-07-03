@@ -9218,9 +9218,9 @@ dependencies = [
 
 [[package]]
 name = "slotmap"
-version = "1.0.2"
+version = "1.0.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ab3003725ae562cf995f3dc82bb99e70926e09000396816765bb6d7adbe740b1"
+checksum = "6ed667ea1f11160850af698a8894c2a18829d8c886d3d3778ed671fc1448356f"
 dependencies = [
  "version_check",
 ]
